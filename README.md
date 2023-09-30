@@ -1,4 +1,4 @@
-# hello-world
+
 
 #include<iostream>
 #include<conio.h>
@@ -8,7 +8,7 @@ using namespace std;
 int main() {
     system("cls");
     int a, b;
-    // char c;
+   
     
     
     
